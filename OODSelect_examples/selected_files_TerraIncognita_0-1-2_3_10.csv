@@ -1,0 +1,11 @@
+rank,file_path,label,selection_score,dataset,train_idxs,test_idx,num_ood_samples
+1,terra_incognita/location_46/opossum/5a0b01b2-23d2-11e8-a6a3-ec086b02610b.jpg,6,0.999902457104315,TerraIncognita,0-1-2,3,10
+2,terra_incognita/location_46/opossum/5a0fd0c8-23d2-11e8-a6a3-ec086b02610b.jpg,6,0.9998243579574285,TerraIncognita,0-1-2,3,10
+3,terra_incognita/location_46/bobcat/59af9702-23d2-11e8-a6a3-ec086b02610b.jpg,1,0.9997285769025256,TerraIncognita,0-1-2,3,10
+4,terra_incognita/location_46/opossum/59973f02-23d2-11e8-a6a3-ec086b02610b.jpg,6,0.9995749361424486,TerraIncognita,0-1-2,3,10
+5,terra_incognita/location_46/coyote/5a0c9dc7-23d2-11e8-a6a3-ec086b02610b.jpg,3,0.9994477703621775,TerraIncognita,0-1-2,3,10
+6,terra_incognita/location_46/raccoon/59e2a506-23d2-11e8-a6a3-ec086b02610b.jpg,8,0.9994402613254821,TerraIncognita,0-1-2,3,10
+7,terra_incognita/location_46/coyote/5a0b02e9-23d2-11e8-a6a3-ec086b02610b.jpg,3,0.9994112910661752,TerraIncognita,0-1-2,3,10
+8,terra_incognita/location_46/raccoon/59673585-23d2-11e8-a6a3-ec086b02610b.jpg,8,0.9992607723236018,TerraIncognita,0-1-2,3,10
+9,terra_incognita/location_46/raccoon/5a0c9b8d-23d2-11e8-a6a3-ec086b02610b.jpg,8,0.9992188881384734,TerraIncognita,0-1-2,3,10
+10,terra_incognita/location_46/raccoon/5a116d0c-23d2-11e8-a6a3-ec086b02610b.jpg,8,0.9992003203615997,TerraIncognita,0-1-2,3,10

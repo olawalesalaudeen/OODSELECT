@@ -1,0 +1,11 @@
+rank,file_path,label,selection_score,dataset,train_idxs,test_idx,num_ood_samples
+1,camelyon17_v1.0/patches/patient_086_node_0/patch_patient_086_node_0_x_29856_y_8032.png,0,0.9999945310677872,WILDSCamelyon,0-1-2,4,10
+2,camelyon17_v1.0/patches/patient_087_node_0/patch_patient_087_node_0_x_13984_y_15232.png,0,0.9999896456169074,WILDSCamelyon,0-1-2,4,10
+3,camelyon17_v1.0/patches/patient_096_node_0/patch_patient_096_node_0_x_23296_y_10912.png,1,0.9999885716625164,WILDSCamelyon,0-1-2,4,10
+4,camelyon17_v1.0/patches/patient_080_node_1/patch_patient_080_node_1_x_32800_y_8800.png,0,0.9999877014269352,WILDSCamelyon,0-1-2,4,10
+5,camelyon17_v1.0/patches/patient_096_node_0/patch_patient_096_node_0_x_32224_y_9408.png,1,0.9999872297214388,WILDSCamelyon,0-1-2,4,10
+6,camelyon17_v1.0/patches/patient_092_node_1/patch_patient_092_node_1_x_17760_y_6304.png,0,0.9999863969647932,WILDSCamelyon,0-1-2,4,10
+7,camelyon17_v1.0/patches/patient_096_node_0/patch_patient_096_node_0_x_38432_y_8448.png,1,0.9999857628863282,WILDSCamelyon,0-1-2,4,10
+8,camelyon17_v1.0/patches/patient_092_node_1/patch_patient_092_node_1_x_33248_y_18240.png,1,0.9999851685924857,WILDSCamelyon,0-1-2,4,10
+9,camelyon17_v1.0/patches/patient_092_node_1/patch_patient_092_node_1_x_31648_y_17600.png,1,0.9999827706291324,WILDSCamelyon,0-1-2,4,10
+10,camelyon17_v1.0/patches/patient_099_node_4/patch_patient_099_node_4_x_6592_y_18944.png,0,0.9999826802363552,WILDSCamelyon,0-1-2,4,10
